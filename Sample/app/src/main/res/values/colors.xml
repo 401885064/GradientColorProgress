@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparentblue">#445CACEE</color>
+    <color name="transparentdarkgray">#CC292929</color>
+    <color name="transparentgray">#CC666666</color>
+    <color name="transparent2">#55ffffff</color>
+    <color name="transparentblack">#88000000</color>
+    <color name="transparentblack2">#cc000000</color>
+
+    <color name="spring_progress_color_1">#4fbabb</color>
+    <color name="spring_progress_color_2">#63bb8b</color>
+    <color name="spring_progress_color_3">#70ab4d</color>
+    <color name="spring_progress_color_4">#85af22</color>
+    <color name="spring_progress_color_5">#a0be05</color>
+    <color name="spring_progress_color_6">#c9d000</color>
+    <color name="spring_progress_color_7">#eddd00</color>
+    <color name="spring_progress_color_8">#fadd08</color>
+    <color name="spring_progress_color_9">#ffc20a</color>
+    <color name="spring_progress_color_10">#ff5a00</color>
+</resources>

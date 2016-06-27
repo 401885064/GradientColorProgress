@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/white"
+              android:orientation="vertical" >
+
+    <Button
+        android:text="随机获取一个进度值"
+        android:id="@+id/click"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.mayi.view.GradientColorProgressView
+        android:id="@+id/spring_progress_view"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@android:color/white"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/max_butt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="最大"/>
+
+    <Button
+        android:id="@+id/min_butt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="最小"/>
+
+</LinearLayout>
